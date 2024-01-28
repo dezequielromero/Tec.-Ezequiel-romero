@@ -1,0 +1,68 @@
+*{
+    /*tamano y direccion de la paguina*/
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    /*es para dar collor al fondo*/
+    background-color: rgb(126, 104, 104);
+    /*dar color al texto*/
+    color: rgb(255, 255, 255);
+    /*direcion y alineacion  del texto*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 10px;
+    padding: 10px;
+}
+
+h1{
+    /**/
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+
+h2{
+    /**/
+    background-color: rgb(255, 0, 0);
+    color: white;
+    text-align: center;
+}
+
+h3{
+    /**/
+    background-color: rgb(0, 255, 0);
+    color: white;
+    text-align: center;
+}
+
+h4{
+    /**/
+    background-color: rgb(255, 0, 212);
+    color: white;
+    text-align: center;
+}
+
+h5{
+    /**/
+    background-color: rgb(217, 255, 0);
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+h6{
+    /**/
+    background-color: rgb(195, 0, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+p{
+    color: black;
+    background-color: aqua;
+}
+
